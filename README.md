@@ -8,7 +8,7 @@ This repository contains different packages that allow non-conventional interact
 2. Skeleton Interaction (Under development)
 3. Myo Interaction (Under development)
 
-## Joystick Interaction *Developed by Paul Mouraud*
+## 1. Joystick Interaction *Developed by Paul Mouraud*
 
 This package uses the SFML library to retrieve the data from a Logitech ExTREME3DPRO Joystick. This node publishes a topic with a custom-made message with joystick's data.
 
