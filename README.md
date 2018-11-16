@@ -67,8 +67,11 @@ run in a terminal:
 `roslaunch joystick_interaction joystick_interaction.launch`
 
 The data will be published to `joystick_state` topic.
-
+***
+***
 *Created by Nicolas Barrero Nov 2018*
+
 **Developed at Pontificia Universidad Javeriana Nov 2018 Bogotá D.C-Colombia**
+
 **"Centro Tecnologico de Automatizacion Industrial" CTAI
 Perception For Industrial Robots Project**
