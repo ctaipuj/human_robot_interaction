@@ -5,8 +5,8 @@
 This repository contains different packages that allow non-conventional interaction with industrial robots.
 
 1. Joystick Interaction
-2. Skeleton Interaction (Under development)
-3. Myo Interaction (Under development)
+2. Myo Interaction (Under development)
+3. Skeleton Interaction (Under development)
 
 ## 1. Joystick Interaction *Developed by Paul Mouraud*
 
@@ -67,6 +67,35 @@ run in a terminal:
 `roslaunch joystick_interaction joystick_interaction.launch`
 
 The data will be published to `joystick_state` topic.
+
+## 2. Myo Interaction *Developed by Paul Mouraud*
+
+This package is under development based on the [myo_ros](https://github.com/uts-magic-lab/ros_myo.git) package using a [MYO gesture recognition armband](https://en.wikipedia.org/wiki/Myo_armband).
+
+The main purpose of the development is to achieve interaction with an industrial robot using human body's electromiographical signals.
+
+### Requirements
+In your `catkin_ws/src` directory:
+
+`git clone https://github.com/uts-magic-lab/ros_myo.git`
+
+Then compile your workspace.
+
+## 3. Skeleton Tracking
+
+This package is under development based on the [openni_tracker](https://github.com/ros-drivers/openni_tracker.git) package using a kinect sensor.
+
+The main purpose of the development is to achieve interaction with an industrial robot using human skeleton tracking.
+
+### Requirements ACA VOY
+- OpenNI 
+- NITE
+In your `catkin_ws/src` directory:
+
+`git clone https://github.com/ros-drivers/openni_tracker.git`
+
+Then compile your workspace.
+
 ***
 *Created by Nicolas Barrero Nov 2018*
 
