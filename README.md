@@ -90,6 +90,7 @@ The main purpose of the development is to achieve interaction with an industrial
 ### Requirements ACA VOY
 - OpenNI 
 - NITE
+
 In your `catkin_ws/src` directory:
 
 `git clone https://github.com/ros-drivers/openni_tracker.git`
