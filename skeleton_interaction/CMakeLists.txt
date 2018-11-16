@@ -10,7 +10,7 @@ project(skeleton_interaction)
 find_package(catkin REQUIRED COMPONENTS
   openni_launch
   roscpp
-  skeleton_tracking
+  openni_tracker
   std_msgs
 )
 

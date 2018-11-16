@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <node name="joystick_data_updater" pkg="joystick_interaction" type="joystick_interaction" respawn="true" output="screen"/>
+</launch>
