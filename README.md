@@ -1,4 +1,4 @@
-# Human Robot Interaction Package 
+# Human Robot Interaction Module
 
 ## Overview
 
