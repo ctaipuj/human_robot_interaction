@@ -60,7 +60,7 @@ buttons[9] = button n°10
 buttons[10] = button n°11
 buttons[11] = button n°12
 ```
-## Usage
+### Usage
 
 run in a terminal:
 
