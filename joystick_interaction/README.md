@@ -1,5 +1,5 @@
 ![imagen](https://raw.githubusercontent.com/ctaipuj/human_robot_interaction/master/human_robot_module.png)
-#Joystick Interaction *Developed by Paul Mouraud*
+# Joystick Interaction *Developed by Paul Mouraud*
 
 This package uses the SFML library to retrieve the data from a Logitech ExTREME 3D PRO Joystick. This node publishes a topic with a custom-made message with joystick's data.
 
