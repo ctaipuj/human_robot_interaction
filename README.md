@@ -3,11 +3,13 @@
 
 ## Overview
 
-This repository contains different packages that allow non-conventional interaction with industrial robots. You can find more information about each package using the links below
+This repository contains different packages that allow non-conventional interaction with industrial robots. You can find more information about each package using the links below.
 
-1. Joystick Interaction
-2. Myo Interaction (Under development)
-3. Skeleton Interaction (Under development)
+## Contents
+
+1. [Joystick Interaction](https://github.com/ctaipuj/human_robot_interaction/tree/master/joystick_interaction)
+2. [Myo Interaction (Under development)](https://github.com/ctaipuj/human_robot_interaction/tree/master/myo_interaction)
+3. [Skeleton Interaction (Under development)](https://github.com/ctaipuj/human_robot_interaction/tree/master/skeleton_interaction)
 
 ***
 *Created by Nicolas Barrero Nov 2018*  
