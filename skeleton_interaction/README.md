@@ -17,12 +17,13 @@ The main purpose of the development is to achieve interaction with an industrial
 
 Then compile your workspace. See documentation about Kinect usage [here](http://wiki.ros.org/openni_launch)
 
-NOTE: If something goes wrong try also intalling [Avin2's module for Kinect] (https://github.com/avin2/SensorKinect)
+### NOTE 
+If something goes wrong try also intalling [Avin2's module for Kinect] (https://github.com/avin2/SensorKinect)
 
 ***
 *Created by Nicolas Barrero Nov 2018*  
 **Developed at Pontificia Universidad Javeriana Nov 2018 Bogotá D.C-Colombia**  
-**"Centro Tecnologico de Automatizacion Industrial" CTAI
+**"Centro Tecnologico de Automatizacion Industrial" CTAI  
 Perception For Industrial Robots Project**
 
 ![imagen](https://bit.ly/2qVzHyL)
