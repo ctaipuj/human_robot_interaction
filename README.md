@@ -14,7 +14,7 @@ This repository contains different packages that allow non-conventional interact
 ***
 *Created by Nicolas Barrero Nov 2018*  
 **Developed at Pontificia Universidad Javeriana Nov 2018 Bogotá D.C-Colombia**  
-**"Centro Tecnologico de Automatizacion Industrial" CTAI
+**"Centro Tecnologico de Automatizacion Industrial" CTAI  
 Perception For Industrial Robots Project**
 
 ![imagen](https://bit.ly/2qVzHyL)
